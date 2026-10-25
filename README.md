@@ -42,4 +42,16 @@ Every problem folder contains:
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0112-path-sum) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
