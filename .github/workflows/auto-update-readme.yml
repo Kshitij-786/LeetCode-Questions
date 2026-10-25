@@ -4,19 +4,22 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: LeetCode Stats Sync
-        uses: denvercoder1/github-readme-leetcode-stats@main
+        uses: joshcangit/leetcode-readme-action@v1.1
         with:
-          username: F5SUdYlLmB
-          style: default
+          leetcode-username: F5SUdYIlmB
 
       - name: Commit and Push Changes
         run: |
