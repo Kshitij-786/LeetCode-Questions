@@ -47,6 +47,7 @@ Every problem folder contains:
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0877-stone-game](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0877-stone-game) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Every problem folder contains:
 | ------- |
 | [0877-stone-game](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0877-stone-game) |
 | [2396-strictly-palindromic-number](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/2396-strictly-palindromic-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Brainteaser
 |  |
 | ------- |
