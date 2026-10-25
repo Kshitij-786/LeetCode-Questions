@@ -1,0 +1,19 @@
+name: Sync LeetCode Submissions
+
+on:
+  workflow_dispatch: # Allows you to trigger this manually whenever you want
+  schedule:
+    - cron: '0 0 * * *' # Runs automatically every day at midnight
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Run LeetCode Sync
+        uses: joshcai/leetcode-sync@v1.7.0
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          leetcode-csrf-token: '' 
+          leetcode-session: ${{ secrets.LEETCODE_SESSION }}
+          destination-folder: 'submissions' # Your solved questions will go inside this folder
