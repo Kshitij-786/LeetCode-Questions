@@ -50,8 +50,17 @@ Every problem folder contains:
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
+| [2396-strictly-palindromic-number](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/2396-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
