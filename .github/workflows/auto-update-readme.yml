@@ -1,0 +1,27 @@
+name: Update DSA README Stats
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: LeetCode Stats Sync
+        uses: denvercoder1/github-readme-leetcode-stats@main
+        with:
+          username: F5SUdYlLmB
+          style: default
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet || git commit -m "chore: auto-update DSA stats in README"
+          git push
