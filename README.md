@@ -45,6 +45,7 @@ Every problem folder contains:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0877-stone-game](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0877-stone-game) |
@@ -85,4 +86,8 @@ Every problem folder contains:
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0877-stone-game) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
