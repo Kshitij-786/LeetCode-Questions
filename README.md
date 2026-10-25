@@ -51,6 +51,7 @@ Every problem folder contains:
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -59,11 +60,13 @@ Every problem folder contains:
 | [0088-merge-sorted-array](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
