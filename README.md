@@ -75,6 +75,7 @@ Every problem folder contains:
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0007-reverse-integer) |
 | [0877-stone-game](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0877-stone-game) |
 | [2396-strictly-palindromic-number](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/2396-strictly-palindromic-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
