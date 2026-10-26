@@ -47,6 +47,7 @@ Every problem folder contains:
 | ------- |
 | [0001-two-sum](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
@@ -122,6 +123,7 @@ Every problem folder contains:
 | [0005-longest-palindromic-substring](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -134,4 +136,8 @@ Every problem folder contains:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
