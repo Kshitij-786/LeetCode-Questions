@@ -53,6 +53,7 @@ Every problem folder contains:
 | [0088-merge-sorted-array](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0877-stone-game](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/1480-running-sum-of-1d-array) |
@@ -144,5 +145,10 @@ Every problem folder contains:
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/1480-running-sum-of-1d-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
