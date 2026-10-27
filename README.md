@@ -55,6 +55,7 @@ Every problem folder contains:
 | [0283-move-zeroes](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -140,4 +141,8 @@ Every problem folder contains:
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
