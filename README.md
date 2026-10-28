@@ -66,6 +66,7 @@ Every problem folder contains:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -155,5 +156,14 @@ Every problem folder contains:
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
