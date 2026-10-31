@@ -54,6 +54,7 @@ Every problem folder contains:
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
+| [0643-maximum-average-subarray-i](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -135,6 +136,7 @@ Every problem folder contains:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 ## Divide and Conquer
 |  |
 | ------- |
