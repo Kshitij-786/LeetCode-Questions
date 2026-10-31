@@ -85,6 +85,7 @@ Every problem folder contains:
 | [0009-palindrome-number](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0877-stone-game) |
 | [2396-strictly-palindromic-number](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/2396-strictly-palindromic-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -96,6 +97,7 @@ Every problem folder contains:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -168,4 +170,8 @@ Every problem folder contains:
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
