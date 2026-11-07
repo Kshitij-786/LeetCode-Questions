@@ -51,6 +51,7 @@ Every problem folder contains:
 | [0015-3sum](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0027-remove-element) |
+| [0064-minimum-path-sum](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0283-move-zeroes) |
@@ -101,6 +102,7 @@ Every problem folder contains:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0064-minimum-path-sum](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0877-stone-game) |
 ## Minimax
@@ -191,4 +193,8 @@ Every problem folder contains:
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
