@@ -91,6 +91,7 @@ Every problem folder contains:
 | [0012-integer-to-roman](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0877-stone-game](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2396-strictly-palindromic-number](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/2396-strictly-palindromic-number) |
@@ -140,6 +141,7 @@ Every problem folder contains:
 | [0013-roman-to-integer](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -196,6 +198,7 @@ Every problem folder contains:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kshitij-786/LeetCode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
 |  |
